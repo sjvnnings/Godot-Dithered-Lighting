@@ -4,6 +4,8 @@ This is a small demo project of some custom lighting shaders used in my games [A
 
 The shaders support both GLES2 and GLES3. If you don't care about demo files, you can copy and paste the "Dither Lighting" folder into your project.
 
+![A render of a shrine using the lighting shaders in GLES3](/reference_images/shrine.png)
+
 ## How to Use:
 
 1. Create a ShaderMaterial and assign the appropriate shader (the demo material uses the default shader, which assigns a single color to the surface, though there are others that support standalone textures or the palette texture).
