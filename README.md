@@ -1,6 +1,6 @@
 # Godot Dithered Lighting Shaders
 
-This is a small demo project of some custom lighting shaders used in my games [A Windy Day in '89](https://pefeper.itch.io/a-windy-day-in-89) and [Combo Chess](https://pefeper.itch.io/combo-chess).
+This is a small demo project of some custom lighting shaders used in my games [A Windy Day in '89](https://pefeper.itch.io/a-windy-day-in-89) and [Combo Chess](https://pefeper.itch.io/combo-chess). Please note that these shaders are not intended for production use yet, and contain bugs.
 
 The shaders support both GLES2 and GLES3. If you don't care about demo files, you can copy and paste the "godot_dithered_lighting/Dither Lighting" folder into your project.
 
