@@ -2,7 +2,7 @@
 
 This is a small demo project of some custom lighting shaders used in my games [A Windy Day in '89](https://pefeper.itch.io/a-windy-day-in-89) and [Combo Chess](https://pefeper.itch.io/combo-chess).
 
-The shaders support both GLES2 and GLES3. If you don't care about demo files, you can copy and paste the "Dither Lighting" folder into your project.
+The shaders support both GLES2 and GLES3. If you don't care about demo files, you can copy and paste the "godot_dithered_lighting/Dither Lighting" folder into your project.
 
 ![A render of a shrine using the lighting shaders in GLES3](/reference_images/shrine.png)
 
